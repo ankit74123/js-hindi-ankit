@@ -32,7 +32,7 @@ const myFunction =function (){
 console.log(typeof myFunction);
 
 // +++++++++++++++++
-// Stack , Heap
+// Stack(Primitive) , Heap(Non-primitive )
 
 let myYoutubename = "hiteshchoudhary.com"
 let anothername = myYoutubename

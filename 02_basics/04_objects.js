@@ -49,3 +49,17 @@ console.log(Object.keys(tinderUser));
 console.log(Object.values(tinderUser));
 
 console.log(tinderUser.hasOwnProperty('isLoggedIn'));
+
+
+// {
+//     "name":"hitesh",
+//     "coursename":"js in hindi",
+//     "price":"free"
+// }
+
+[
+    {},
+    {},
+    {}
+]
+
